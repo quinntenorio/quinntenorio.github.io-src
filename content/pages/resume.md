@@ -1,14 +1,14 @@
 Title: Resume
 Date: 2018-12-05
 
-<h1 align="center">Resume</h1>
+<h1 style="text-align:center;">Resume</h1>
 <div style="text-align:center;"><a href="../static/quinn-k-tenorio-resume.pdf">PDF</a></div>
 ______
 ###Education
 **Colorado School of Mines / Golden, CO**</br>
 B.S. Computer Science 2019</br>
-GPA: 3.72 Major - 3.56 Cumulative</br>
-- Computational and Applied Mathematics Minor<br>
+GPA: 3.77 Major - 3.58 Cumulative</br>
+- Computational and Applied Mathematics Minor, 3.55 GPA<br>
 - Relevant coursework: Data Structures, Algorithms, Operating Systems
 ______
 ###Experience
@@ -36,7 +36,7 @@ May 2016 - Dec 2016</br>
 ______
 ###Skills
 **Technological**</br>
-C++, Java, Javascript, HTML, CSS, Git, MATLAB, Linux, LaTeX, NodeJS, Express, Mongo, PostgreSQL, R Studio, MIPS, Microsoft, Apple, Adobe Suite, Google App Suite, Solidworks
+C++, Javascript, HTML, CSS, PHP, Git, Python, SQL, MATLAB, Linux, Java, Ruby, LaTeX, NodeJS, Express, Mongo, R, Apple, Microsoft, Adobe Suite, Google App Suite, Solidworks
 
 **Interpersonal**</br>
 Excellent communication, well organized, punctual, exceptional technical writing and presentation, creative thinker, team player, strong work ethic, flexible, attentive to detail
@@ -83,4 +83,4 @@ ______
 - Above 3.5 GPA five semesters
 
 **Honor Roll**
-- Above 3.0 GPA five semesters</br></br></br>
+- Above 3.0 GPA seven semesters</br></br></br>

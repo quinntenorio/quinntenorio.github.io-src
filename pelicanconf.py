@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'Quinn Tenorio'
 SITENAME = 'Quinn Tenorio'
 SITETITLE = 'Quinn Tenorio'
-SITESUBTITLE = 'Senior in Computer Science @ CO School of Mines\nHuge computer nerd and a native'
+SITESUBTITLE = 'Graduating senior in Computer Science @ School of Mines + huge computer nerd and native'
 SITELOGO = '/images/quinn.jpg'
 FAVICON = '/images/favicon.ico'
 INDEX_SAVE_AS = 'blog.html'
@@ -19,12 +19,14 @@ DEFAULT_LANG = 'en'
 STATIC_PATHS = ["images", "pages", "static"]
 
 COPYRIGHT_YEAR = '2018'
-
+COPYRIGHT_NAME = 'Quinn Tenorio'
 CC_LICENSE = {
-    'name': 'Creative Commons Attribution-ShareAlike',
+    'name': 'CC BY-SA',
     'version': '4.0',
-    'slug': 'by-sa',
+#    'slug': 'by-sa',
 }
+
+IGNORE_FILES = [ 'article-template.md' ]
 
 ARTICLE_URL = 'blog/{category}/{slug}.html'
 ARTICLE_SAVE_AS = 'blog/{category}/{slug}.html'
